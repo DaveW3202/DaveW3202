@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davew3202&show_icons=true&locale=en&layout=compact" alt="davew3202" /></p>
 <br>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaveW3202&theme=react&line_height=40&hide=css"/> </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davew3202&show_icons=true&locale=en" alt="davew3202" /></p>
+<p>&nbsp;<img align="center" class="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=davew3202&show_icons=true&locale=en" alt="davew3202" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davew3202&" alt="davew3202" /></p>
 
