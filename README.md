@@ -36,16 +36,7 @@
 </p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DaveW3202/DaveW3202?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/DaveW3202/DaveW3202?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/DaveW3202/DaveW3202?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DaveW3202/DaveW3202?color=red&style=plastic)
 
 <br/>
-
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davew3202&show_icons=true&locale=en&layout=compact" alt="davew3202" /></p> -->
-
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaveW3202&theme=react&line_height=40&hide=css"/> </a> 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davew3202&" alt="davew3202" /></p>
 
