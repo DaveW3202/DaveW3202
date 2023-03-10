@@ -34,6 +34,7 @@
 </p>
 
 <h3>My coding stack: </h3>
+
 <p>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -87,9 +88,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  
-  </br>
 </p>
+
+</br>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DaveW3202/DaveW3202?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DaveW3202/DaveW3202?color=red&style=plastic)
