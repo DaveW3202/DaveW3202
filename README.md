@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davew3202&label=Profile%20views&color=0e75b6&style=flat" alt="davew3202" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [currently working...]
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Javascript, Php, Python**
 
 - 📫 How to reach me **lazycode5202@gmail.com**
 
-- ⚡ Fun fact **No one**
+- ⚡ Fun fact 
 
 
 
